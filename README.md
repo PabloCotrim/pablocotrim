@@ -27,7 +27,7 @@
     <img align="center" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/PabloCotrim/PabloCotrim/blob/output/github-contribution-grid-snake.svg)
 
     
  </div>
