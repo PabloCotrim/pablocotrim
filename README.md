@@ -15,8 +15,8 @@
   <a href="https://github.com/pablocotrim">
     <h1> Statistics GitHub </h1>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablocotrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocotrim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="197em" src="https://github-readme-stats.vercel.app/api?username=pablocotrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocotrim&layout=compact&langs_count=7&theme=dracula"/>
    
  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloCotrim&theme=blue-green)]
  </div>
