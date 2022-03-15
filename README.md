@@ -1,3 +1,8 @@
+<img width = "350px" height = "350px" align = "right" src="https://imgur.com/y1IlhUD.gif" title="source: imgur.com"/>
+
+
+
+
 ### OLá, Sou o Pablo Cotrim
 💻 Iniciando carreira como Desenvolvedor Full Stack
 ##
@@ -6,10 +11,12 @@
 🧐Pronoums > Ele/dele
 
 
-<div align="center">
+<div>
   <a href="https://github.com/pablocotrim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablocotrim&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocotrim&layout=compact&langs_count=7&theme=merko"/>
+    <h1> Statistics GitHub </h1>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablocotrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocotrim&layout=compact&langs_count=7&theme=dracula"/>
  </div>
    
 <div>
