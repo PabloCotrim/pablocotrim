@@ -1,8 +1,3 @@
-<img width = "350px" height = "350px" align = "right" src="https://imgur.com/a/10FDIOH" title="source: imgur.com"/>
-
-
-
-
 ### OLá, Sou o Pablo Cotrim
 💻 Iniciando carreira como Desenvolvedor Full Stack
 ##
