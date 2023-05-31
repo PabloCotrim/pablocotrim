@@ -1,7 +1,7 @@
 ### OLá, Sou o Pablo Cotrim
 💻 Desenvolvedor Full Stack
 ##
-📚Estudando Java
+📚Estudando Javascript
 ##
 🧐Pronoums > Ele/dele
 
