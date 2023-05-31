@@ -1,5 +1,5 @@
 ### OLá, Sou o Pablo Cotrim
-💻 Iniciando carreira como Desenvolvedor Full Stack
+💻 Desenvolvedor Full Stack
 ##
 📚Estudando Java
 ##
